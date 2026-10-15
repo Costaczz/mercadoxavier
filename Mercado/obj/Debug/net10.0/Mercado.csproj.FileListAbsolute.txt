@@ -1,0 +1,14 @@
+C:\projetoCSharpe#priscila\Mercado\bin\Debug\net10.0\Mercado.exe
+C:\projetoCSharpe#priscila\Mercado\bin\Debug\net10.0\Mercado.deps.json
+C:\projetoCSharpe#priscila\Mercado\bin\Debug\net10.0\Mercado.runtimeconfig.json
+C:\projetoCSharpe#priscila\Mercado\bin\Debug\net10.0\Mercado.dll
+C:\projetoCSharpe#priscila\Mercado\bin\Debug\net10.0\Mercado.pdb
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfoInputs.cache
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.AssemblyInfo.cs
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.csproj.CoreCompileInputs.cache
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.dll
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\refint\Mercado.dll
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.pdb
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\Mercado.genruntimeconfig.cache
+C:\projetoCSharpe#priscila\Mercado\obj\Debug\net10.0\ref\Mercado.dll
